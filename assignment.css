@@ -1,12 +1,52 @@
 body{
-    color: rgb(247, 251, 252);
+    color: rgb(249, 253, 254);
     text-align: center;
     font-family: 'Gulzar', serif;
-    background-image: url(donate-today-main/images/donation13.jpg);
-    font-size: 30px;
-    background-size: 100% 150%;
-    background-repeat: no-repeat;
+    margin:0%;
+    padding:0%;
 }
-.button{
-    background-color: #9baf4c;
+.top-banner{
+    background-image: url(donate-today-main/images/donation6.jpg);
+    font-size: 30px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+  
+}
+button{
+    text-decoration: none;
+    width: 100px;
+    height: 50px;
+    box-shadow: 5px 6px;
+    background: rgb(169, 241, 249);
+    color: rgb(22, 94, 236);
+    font-weight: 700;
+    border-radius: 5px;
+}
+.taka{
+    text-decoration: none;
+    
+
+  } 
+.money{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+}
+
+
+    
+    
+
+.half-width{
+    color: #000;
+    font-size: 20px;
+}
+p{
+    color: rgb(34, 35, 40);
 }
