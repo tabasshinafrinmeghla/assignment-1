@@ -1,19 +1,21 @@
-body{
+body {
     color: rgb(249, 253, 254);
     font-family: 'Gulzar', serif;
-    margin:0;
+    margin: 0;
     text-align: center;
 
 }
-.top-banner{
+
+.top-banner {
     background-image: url(donate-today-main/images/donation6.jpg);
     background-repeat: no-repeat;
     font-size: 50px;
     background-size: 100% 100%;
     background-repeat: no-repeat;
-  
+
 }
-button{
+
+button {
     text-decoration: none;
     width: 100px;
     height: 50px;
@@ -23,13 +25,16 @@ button{
     font-weight: 700;
     border-radius: 5px;
 }
-.taka{
-    text-decoration: none;
-    
 
-  } 
-.money{
-    background-color: #2469f1; /* Green */
+.taka {
+    text-decoration: none;
+
+
+}
+
+.money {
+    background-color: #2469f1;
+    /* Green */
     border: none;
     color: white;
     padding: 15px 32px;
@@ -39,29 +44,35 @@ button{
     font-size: 16px;
 
 }
-h1{
+
+h1 {
     color: white;
-   
+
 }
-h3{
+
+h3 {
     color: #4479ea;
 }
-h5{
-    color:white;
+
+h5 {
+    color: white;
 }
-.dream-area{
+
+.dream-area {
     color: aqua;
 }
 
 
-.half-width{
+.half-width {
     color: #000;
     font-size: 20px;
 }
-p{
+
+p {
     color: rgb(34, 35, 40);
 }
-.container{
+
+.container {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -71,57 +82,61 @@ p{
 
 
 }
-.box1{
+
+.box1 {
     width: 200px;
     height: 550px;
     background-color: rgb(151, 157, 155);
-        margin: 15px;
-        padding: 5px;
-        color: rgb(29, 31, 31);
-        text-align: center;
+    margin: 15px;
+    padding: 5px;
+    color: rgb(29, 31, 31);
+    text-align: center;
 }
 
-.box2{
+.box2 {
     width: 200px;
     height: 550px;
     background-color: rgb(183, 233, 216);
-        margin: 15px;
-        padding: 5px;
-        color: rgb(29, 31, 31);
-        text-align: center;
+    margin: 15px;
+    padding: 5px;
+    color: rgb(29, 31, 31);
+    text-align: center;
 }
-.box3{
+
+.box3 {
     width: 200px;
     height: 550px;
     background-color: rgb(104, 246, 199);
-        margin: 15px;
-        padding: 5px;
-        color: rgb(29, 31, 31);
-        text-align: center;
+    margin: 15px;
+    padding: 5px;
+    color: rgb(29, 31, 31);
+    text-align: center;
 
 }
-.box4{
+
+.box4 {
     width: 200px;
     height: 550px;
     background-color: rgb(102, 129, 120);
-        margin: 15px;
-        padding: 5px;
-        color: rgb(71, 87, 87);
-        text-align: center;
+    margin: 15px;
+    padding: 5px;
+    color: rgb(71, 87, 87);
+    text-align: center;
 
 }
-#help{
-    display:flex ;
+
+#help {
+    display: flex;
     color: #000;
     width: 300px;
     height: 200px;
     text-align: left;
     float: left;
-    
+
 }
 
 
-#help-hand{
+#help-hand {
     size: 30px;
     text-align: left;
     display: flex;
@@ -129,7 +144,7 @@ p{
     float: left;
 }
 
-.text{
+.text {
     width: 400px;
     height: 200px;
     color: #1f2021;
@@ -138,10 +153,18 @@ p{
     margin: 100px;
     padding: 5px;
 }
-h2{
+
+h2 {
     color: #000;
 }
 
+#under-line {
+    color: #000;
+    background-color: #1f2021;
+    height: 100px;
+    width: 100%;
+}
 
-
-
+footer p {
+    text-align: center;
+}
