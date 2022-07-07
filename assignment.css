@@ -7,6 +7,7 @@ body{
 }
 .top-banner{
     background-image: url(donate-today-main/images/donation6.jpg);
+    background-repeat: no-repeat;
     font-size: 50px;
     background-size: 100% 100%;
     background-repeat: no-repeat;
@@ -71,7 +72,7 @@ p{
 
 }
 .box1{
-    width: 300px;
+    width: 200px;
     height: 550px;
     background-color: rgb(151, 157, 155);
         margin: 15px;
@@ -81,7 +82,7 @@ p{
 }
 
 .box2{
-    width: 300px;
+    width: 200px;
     height: 550px;
     background-color: rgb(183, 233, 216);
         margin: 15px;
@@ -90,12 +91,22 @@ p{
         text-align: center;
 }
 .box3{
-    width: 300px;
+    width: 200px;
     height: 550px;
     background-color: rgb(104, 246, 199);
         margin: 15px;
         padding: 5px;
         color: rgb(29, 31, 31);
+        text-align: center;
+
+}
+.box4{
+    width: 200px;
+    height: 550px;
+    background-color: rgb(102, 129, 120);
+        margin: 15px;
+        padding: 5px;
+        color: rgb(71, 87, 87);
         text-align: center;
 
 }
@@ -127,4 +138,10 @@ p{
     margin: 100px;
     padding: 5px;
 }
+h2{
+    color: #000;
+}
+
+
+
 
