@@ -1,13 +1,13 @@
 body{
     color: rgb(249, 253, 254);
-    text-align: center;
     font-family: 'Gulzar', serif;
-    margin:0%;
-    padding:0%;
+    margin:0;
+    text-align: center;
+
 }
 .top-banner{
     background-image: url(donate-today-main/images/donation6.jpg);
-    font-size: 30px;
+    font-size: 50px;
     background-size: 100% 100%;
     background-repeat: no-repeat;
   
@@ -28,7 +28,7 @@ button{
 
   } 
 .money{
-    background-color: #4CAF50; /* Green */
+    background-color: #2469f1; /* Green */
     border: none;
     color: white;
     padding: 15px 32px;
@@ -38,10 +38,20 @@ button{
     font-size: 16px;
 
 }
+h1{
+    color: white;
+   
+}
+h3{
+    color: #4479ea;
+}
+h5{
+    color:white;
+}
+.dream-area{
+    color: aqua;
+}
 
-
-    
-    
 
 .half-width{
     color: #000;
@@ -50,3 +60,71 @@ button{
 p{
     color: rgb(34, 35, 40);
 }
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 150;
+    padding: 100px;
+
+
+}
+.box1{
+    width: 300px;
+    height: 550px;
+    background-color: rgb(151, 157, 155);
+        margin: 15px;
+        padding: 5px;
+        color: rgb(29, 31, 31);
+        text-align: center;
+}
+
+.box2{
+    width: 300px;
+    height: 550px;
+    background-color: rgb(183, 233, 216);
+        margin: 15px;
+        padding: 5px;
+        color: rgb(29, 31, 31);
+        text-align: center;
+}
+.box3{
+    width: 300px;
+    height: 550px;
+    background-color: rgb(104, 246, 199);
+        margin: 15px;
+        padding: 5px;
+        color: rgb(29, 31, 31);
+        text-align: center;
+
+}
+#help{
+    display:flex ;
+    color: #000;
+    width: 300px;
+    height: 200px;
+    text-align: left;
+    float: left;
+    
+}
+
+
+#help-hand{
+    size: 30px;
+    text-align: left;
+    display: flex;
+    color: #000;
+    float: left;
+}
+
+.text{
+    width: 400px;
+    height: 200px;
+    color: #1f2021;
+    display: flex;
+    text-align: center;
+    margin: 100px;
+    padding: 5px;
+}
+
